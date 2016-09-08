@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Jasmine CoffeeScript",
+		"LESS",
+		"Less2Css",
+		"lessc",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-coffee"
+	]
+}
