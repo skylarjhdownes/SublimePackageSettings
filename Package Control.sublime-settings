@@ -7,11 +7,14 @@
 	[
 		"Anaconda",
 		"Better CoffeeScript",
+		"HTML-CSS-JS Prettify",
 		"Jasmine CoffeeScript",
 		"LESS",
 		"Less2Css",
 		"lessc",
+		"Lo-Dash Snippets for CoffeeScript",
 		"Package Control",
+		"Sass",
 		"SublimeLinter",
 		"SublimeLinter-coffee"
 	]
